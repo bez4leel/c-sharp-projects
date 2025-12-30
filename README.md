@@ -1,8 +1,7 @@
-Console apps
+## Console apps
 - Calculator
 - To Do List
 - Guess Random Number
-- 
 This repository contains a C# project.
 Each folder represents one project and contains only `.cs` and `.csproj` files.
 
@@ -17,13 +16,13 @@ dotnet --version
 2. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/bez4leel/c-sharp-projects.git
 ```
 
 3. Navigate to the project folder
 
 ```bash
-cd your-repository/project-folder
+cd c-sharp-projects/Choose project
 ```
 
 4. Restore dependencies
